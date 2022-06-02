@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+2&family=Fredoka+One&display=swap');
+
+nav ul {
+    list-style-type: none;
+    
+}
+
+   nav li{
+       display: inline-block;
+       padding: 0.25em;
+      
+   }
+
+   nav a:hover {
+    color: darkred;
+   }
+
+   div{position:relative;
+   }
+
+   nav{position:sticky;
+    top: 3em;
+   }
+
+h4, h2 {
+    font-family: roboto slab;
+    color:black;
+}
+
+   a:link {
+    color: #777;        
+     }
+ 
+   a:active {
+         color: rgb(12, 8, 17);
+   }
+
+   a:visited {
+     color: rgb(108, 187, 240);
+   }
+
+ a:hover {
+     background-color: rgb(113, 224, 187);
+   
+ }
+ 
